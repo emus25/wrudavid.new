@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;David;; ;
+FN: David
+ORG:The Arcade Unit 6
+COMPANY:The Arcade Unit 6
+TITLE:Watches R Us
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;32 Hatton Garden London;;;EC1N 8DH;
+TEL;TYPE=Work,pref:07876614033
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:David.kirwan@me.com
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:https://maps.app.goo.gl/BDeWkDKVfRotRWzh6
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100046511
+URL;TYPE=Website:
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:https://api.whatsapp.com/send/?phone=%2B447876614033&text&type=phone_number&app_absent=0
+
+
+URL;TYPE=Instagram:https://www.instagram.com/watches_r_us_uk?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAABUUlEQVR42u3VMUsCYRzHcV/Lz8MwlEARDJFaDIegJTAoaG1pCGqSWnJpiaIIAoPghjgITozEOCgUHMLo6CA8PH7vJej07rKI50Hcnv/2fIfPszz8nxinnJgCFKAABShgNkAH35PIlfeNaCy6wakJeP8B4ZTMSKyKA7pt273WaQXQzkJAs4SB8b3tAuL6KGayKHuyAO080o4fs7fAiTTAe6DmxyS3kOxJA1zB8iiyn8a6PHAIvPvR5TlwJQ3oQMOPn+QaFt5kgSag+9Ehu3PYlgUsoB4ArAG6JGACdyHglZBz5IA60AoBtjXskg0JYA+JQQTgAeImH8SBYR6rjAKDAorukzhwAVyOgeBtVrvCgJXE4vAnwB1ohihwPY/EIyeAjwyWBPZB/8U4KgIpnZMAbwDhjbTR4W+AmyJAPF2oHD+TfwGvKcBTH4sCFKAABcwM+AJRCwTqRQo7awAAAABJRU5ErkJggg==
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
